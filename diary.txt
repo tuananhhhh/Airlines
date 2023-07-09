@@ -1,0 +1,7 @@
+day_1 
+Create a Quick PNR - module - Availability: departure day, return day (if yes)
+Find best price - FXR
+Make a GUI with Grid Python
+
+day_2 
+Create a Quick PNR - module: Name: Adult, Child, Infant
